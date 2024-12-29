@@ -1,0 +1,1 @@
+This repository contains a VHDL counter example demonstrating a potential issue with uninitialized signals.  The bug.vhdl file shows the code with the potential problem. The bugSolution.vhdl file provides a corrected version that addresses the issue by explicitly initializing the internal counter signal.
